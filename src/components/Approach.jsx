@@ -5,7 +5,7 @@ const Aproach = () => {
     return <div>
         <div style={{ width: "90%", margin: "auto", display: "flex", gap: "40px", alignItems: "center" }}>
             <div style={{ width: "130%" }}>
-                <h1 style={{ fontWeight: "300", fontSize: "35px", margin: "auto" }}>Our <span style={{ color: "#4AAB76" }}>Approach</span></h1>
+                <h1 style={{ fontWeight: "300", fontSize: "35px", margin: "auto" }} className="text-5xl">Our <span className="text-pink-500 font-bold text-5xl">Approach</span></h1>
                 <div style={{ display: "flex", marginTop: "30px" }}>
                     <div style={{ padding: "10px" }}>
                         <span ><CiDeliveryTruck style={{ margin: "auto", color: "black", width: "40px", height: "40px", objectFit: "cover" }} /></span>

@@ -8,11 +8,7 @@ function Footer() {
         <div className="w-1/2">
           <h2 className="text-xl font-bold">Pehchan</h2>
           <p className="mt-4">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam cum
-            consequuntur eveniet, mollitia, laborum voluptatem voluptate
-            blanditiis nihil nulla numquam accusamus earum quam, architecto
-            tenetur libero praesentium quasi. A minima, temporibus atque
-            incidunt aspernatur natus?
+          Welcome to [Pehchan], a virtual haven for art enthusiasts and creators alike. Immerse yourself in a world where creativity knows no bounds. Our curated collection features a diverse array of artists, each telling a unique story through their masterpieces. 
           </p>
           <div className="flex mt-4">
             <p className="mr-4">Like me</p>
@@ -64,12 +60,7 @@ function Footer() {
         </div>
       </div>
 
-      <div className="text-center mt-4">
-        Website build by Team DreamBrushers-Kanishka Sharma
-        <br />
-        This website is made for my Mini project. It gives me such a sense of
-        peace to draw.
-      </div>
+      
     </div>
   );
 }
